@@ -5,6 +5,16 @@ Hello and welcome to my walkthroughs for Hack the Box (HTB). I've challenged mys
 2. The next 15 machines I will attempt to with as little help from other tutorials and write-ups. I will have them open and available but use them only as clues for what I should research to get to the next step. The goal here is to practice problem solving and methodology without direct guidance.
 3. The final 25 machines I will attempt to do without tutorials or write-ups, giving me a more realistic feel for how field tests may be.
 
+# Table of Contents
+Intro:
+
+* [Set Up](https://github.com/s0merset7/HTBWalkthroughs#set-up)
+* [Disclaimer](https://github.com/s0merset7/HTBWalkthroughs#disclaimer)
+
+Machine Walkthroughs:
+
+1. [Lame Walkthrough](https://github.com/s0merset7/HTBWalkthroughs/blob/master/HTB%20Lame%20Write-Up.md)
+
 # Set Up
 I will be using Kali Linux and many of its tools to complete the machines. Unless you want to dual boot or reset the OS of your computer, I would recommend following [these instructions](https://www.nakivo.com/blog/how-to-install-kali-linux-on-virtualbox/) to set it up on your own device. (It's totally free and has plenty of documentation if you come across an issue that isn't in that link)
 
